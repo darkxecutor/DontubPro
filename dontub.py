@@ -535,8 +535,8 @@ def print_banner():
     ║   ██║  ██║██║   ██║██║╚██╗██║   ██║   ██║   ██║██╔══██╗  ║
     ║   ██████╔╝╚██████╔╝██║ ╚████║   ██║   ╚██████╔╝██████╔╝  ║
     ║   ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═════╝   ║
-    ║    🚀 The Legendary Downloader - v1.0 Long-Video 🚀       ║
-    ║         GitHub: https://github.com/darkxecutor           ║ 
+    ║    🚀 The Legendary Downloader - v1.0 Long-Video  ║
+    ║         GitHub: https://github.com/darkxecutor           ║
     ║         Instagram: jawad_smlali_                         ║
     ╚══════════════════════════════════════════════════════════╝""", c))
     print(f"  {emoji()} {colored('Ready to download at max quality - even long videos!', '92')} {emoji()}\n")
