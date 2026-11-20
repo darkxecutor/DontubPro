@@ -535,7 +535,7 @@ def print_banner():
     ║   ██║  ██║██║   ██║██║╚██╗██║   ██║   ██║   ██║██╔══██╗  ║
     ║   ██████╔╝╚██████╔╝██║ ╚████║   ██║   ╚██████╔╝██████╔╝  ║
     ║   ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═════╝   ║
-    ║    🚀 The Legendary Downloader - v1.0 Long-Video  ║
+    ║    🚀 The Legendary Downloader - v1.0 Long-Video         ║
     ║         GitHub: https://github.com/darkxecutor           ║
     ║         Instagram: jawad_smlali_                         ║
     ╚══════════════════════════════════════════════════════════╝""", c))
